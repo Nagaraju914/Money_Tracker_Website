@@ -24,8 +24,8 @@ Money Tracker App is a simple web application that helps you track your income a
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Sweety-Vigneshg/money-tracker-app.git
-    cd money-tracker-app
+    git clone https://github.com/Nagaraju914/Money_Tracker_Website.git
+    cd Money_Tracker_Website
     ```
 
 2. **Install dependencies:**
